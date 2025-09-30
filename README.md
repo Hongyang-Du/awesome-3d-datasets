@@ -2,6 +2,8 @@
 
 Last updated: <!--LAST_UPDATED--> 2025-09-30
 
+![awesome-3d-datasets](./images/l1.png)
+
 ## 🌟 Overview
 
 - [Awesome 3d Datasets](#awesome-3d-datasets)
@@ -86,6 +88,8 @@ Last updated: <!--LAST_UPDATED--> 2025-09-30
 | ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation | 2025 | [📄 Paper](https://arxiv.org/abs/2506.23126) | [🌍 Website](https://suninghuang19.github.io/particleformer_page/)      | -                                                                                                | -           |
 
 ## 📚 3D Datasets Summary
+
+![3dv.001](./images/3dv.001.jpeg)
 
 ### 👤 Human
 
