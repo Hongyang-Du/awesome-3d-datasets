@@ -220,3 +220,4 @@ We welcome contributions! If you'd like to contribute, please submit a pull requ
 - [Hongyang Du](https://hongyang-du.github.io)
 - [Dawei Liu](https://davidliuk.github.io/blog/)
 - Haoyuan Song
+- Qingyu Zhang
