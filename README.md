@@ -42,7 +42,6 @@ Last updated: <!--LAST_UPDATED--> 2026-03-26
 | MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second                       | 2025 | [📄 Paper](https://arxiv.org/abs/2507.10065) | [🌍 Website](https://chenguolin.github.io/projects/MoVieS/)                                            | [💾 Code](https://github.com/chenguolin/MoVieS)         | -                                                                |
 | TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction                       | 2025 | [📄 Paper](https://arxiv.org/abs/2512.02341) | -                                            | [💾 Code](https://github.com/Xian-Bei/TALO)         | -                                                                |
 | STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer                       | 2025 | [📄 Paper](https://arxiv.org/abs/2508.10893) | [🌍 Website](https://nirvanalan.github.io/projects/stream3r/)                                           | [💾 Code](https://github.com/NIRVANALAN/STream3R)         | -                               |
-| Spann3R: Global Pointmap Regression for Unconstrained Image Collections                       | 2024 | [📄 Paper](https://arxiv.org/abs/2408.16061) | [🌍 Website](https://hengyiwang.github.io/projects/spanner)                                            | [💾 Code](https://github.com/HengyiWang/spann3r)         | -                                  |
 
 
 
