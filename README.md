@@ -40,6 +40,12 @@ Last updated: <!--LAST_UPDATED--> 2026-01-24
 | Mickey: Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences | 2024 | [📄 Paper](https://arxiv.org/abs/2404.06337) | [🌍 Website](https://nianticlabs.github.io/mickey/)                                                    | [💾 Code](https://github.com/nianticlabs/mickey)        | -                                                                |
 | StreamVGGT: Streaming 4D Visual Geometry Transformer                               | 2025 | [📄 Paper](https://arxiv.org/abs/2507.11539) | [🌍 Website](https://wzzheng.net/StreamVGGT/)                                                          | [💾 Code](https://github.com/wzzheng/StreamVGGT)        | [😊 HuggingFace](https://huggingface.co/spaces/lch01/StreamVGGT) |
 | MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second                       | 2025 | [📄 Paper](https://arxiv.org/abs/2507.10065) | [🌍 Website](https://chenguolin.github.io/projects/MoVieS/)                                            | [💾 Code](https://github.com/chenguolin/MoVieS)         | -                                                                |
+| TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction                       | 2025 | [📄 Paper](https://arxiv.org/abs/2512.02341) | -                                            | [💾 Code](https://github.com/Xian-Bei/TALO)         | -                                                                |
+| STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer                       | 2025 | [📄 Paper](https://arxiv.org/abs/2508.10893) | [🌍 Website](https://nirvanalan.github.io/projects/stream3r/)                                           | [💾 Code](https://github.com/NIRVANALAN/STream3R)         | -                               |
+| Spann3R: Global Pointmap Regression for Unconstrained Image Collections                       | 2024 | [📄 Paper](https://arxiv.org/abs/2408.16061) | [🌍 Website](https://hengyiwang.github.io/projects/spanner)                                            | [💾 Code](https://github.com/HengyiWang/spann3r)         | -                                  |
+
+
+
 
 ### ✨ 3D Generation
 
@@ -53,6 +59,10 @@ Last updated: <!--LAST_UPDATED--> 2026-01-24
 | MVDream: Multi-view Diffusion for 3D Generation                                                                   | 2024 | [📄 Paper](https://arxiv.org/abs/2308.16512) | [🌍 Website](https://mv-dream.github.io/)                   | [💾 Code](https://github.com/bytedance/MVDream)           | -                                                                            |
 | Structured 3D Latents for Scalable and Versatile 3D Generation                                                    | 2025 | [📄 Paper](https://arxiv.org/abs/2412.01506) | [🌍 Website](https://microsoft.github.io/TRELLIS/)          | [💾 Code](https://github.com/Microsoft/TRELLIS)           | [😊 HuggingFace](https://huggingface.co/spaces/trellis-community/TRELLIS)    |
 | 3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation                                                       | 2024 | [📄 Paper](https://arxiv.org/abs/2403.09439) | -                                                           | -                                                         | -                                                                            |
+| AssetFormer: Modular 3D Assets Generation with Autoregressive Transformer                           | 2026 | [📄 Paper](https://arxiv.org/abs/2602.12100) | -                                                           | [💾 Code](https://github.com/Advocate99/AssetFormer)                                                         | -                                           |
+
+
+
 
 ### 🎬 Video Generation
 
