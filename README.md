@@ -80,6 +80,8 @@ Last updated: <!--LAST_UPDATED--> 2026-03-26
 | PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation                                        | 2024 | [📄 Paper](https://arxiv.org/abs/2409.18964) | [🌍 Website](https://stevenlsw.github.io/physgen/)                | [💾 Code](https://github.com/stevenlsw/physgen)                     | -                                                                                     |
 | Tora: Trajectory-oriented Diffusion Transformer for Video Generation                                  | 2025 | [📄 Paper](https://arxiv.org/abs/2407.21705) | [🌍 Website](https://ali-videoai.github.io/tora_video/)           | [💾 Code](https://github.com/alibaba/Tora)                          | [😊 HuggingFace](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora) |
 | CamI2V: Camera-Controlled Image-to-Video Diffusion Model                                              | 2024 | [📄 Paper](https://arxiv.org/abs/2410.15957) | [🌍 Website](https://zgctroy.github.io/CamI2V/)                   | [💾 Code](https://github.com/ZGCTroy/CamI2V)                        | [😊 HuggingFace](https://huggingface.co/MuteApo/CamI2V/tree/main)                     |
+| SANA-Video: Efficient Video Generation with Block Linear Diffusion Transformer | 2026 | [📄 Paper](https://arxiv.org/abs/2509.24695) | [🌍 Website](https://nvlabs.github.io/Sana/Video/)           | [💾 Code](https://github.com/NVlabs/Sana)                          | - |
+| daVinci-MagiHuman: A Single-Stream Architecture for Fast Audio-Video Foundation Model | 2026 | [📄 Paper](https://arxiv.org/abs/2603.21986) | -        | [💾 Code](https://github.com/GAIR-NLP/daVinci-MagiHuman)                          | [😊 HuggingFace](https://huggingface.co/GAIR/daVinci-MagiHuman) |
 
 ### 🌐 World Models
 
@@ -95,6 +97,12 @@ Last updated: <!--LAST_UPDATED--> 2026-03-26
 | Gaussian Splatting SLAM                                                                            | 2024 | [📄 Paper](https://arxiv.org/abs/2312.06741) | [🌍 Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)      | [💾 Code](https://github.com/muskie82/MonoGS)                                                    | -           |
 | Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians                                     | 2024 | [📄 Paper](https://arxiv.org/abs/2405.16544) | -                                                                       | [💾 Code](https://github.com/google-research/Splat-SLAM)                                         | -           |
 | ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation | 2025 | [📄 Paper](https://arxiv.org/abs/2506.23126) | [🌍 Website](https://suninghuang19.github.io/particleformer_page/)      | -                                                                                                | -           |
+| RoboScape: Physics-informed Embodied World Model | 2025 | [📄 Paper](https://arxiv.org/abs/2506.23135) | -      |       [💾 Code](https://github.com/tsinghua-fib-lab/RoboScape)                                     | -           |
+| LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics | 2025 | [📄 Paper](https://arxiv.org/abs/2511.08544) | -   |  [💾 Code](https://github.com/galilai-group/lejepa) | 
+| World-in-World: World Models in a Closed-Loop World | 2026 | [📄 Paper](https://arxiv.org/abs/2510.18135) | - | [💾 Code](https://github.com/World-In-World/world-in-world) | - |
+| FantasyWorld: Geometry-Consistent World Modeling via Unified Video and 3D Prediction | 2026 | [📄 Paper](https://arxiv.org/abs/2509.21657) | - | [💾 Code](https://github.com/Fantasy-AMAP/fantasy-world) | [😊 HuggingFace](https://huggingface.co/acvlab/FantasyWorld-Wan2.2-Fun-A14B-Control-Camera) |
+| Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling  | 2026 | [📄 Paper](https://arxiv.org/abs/2603.04553) | [🌍 Website](https://taldatech.github.io/lpwm-web/) | [💾 Code](https://github.com/taldatech/lpwm) | - |
+
 
 ## 📚 3D Datasets Summary
 
