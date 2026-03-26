@@ -246,3 +246,4 @@ We welcome contributions! If you'd like to contribute, please submit a pull requ
 - Haoyuan Song
 - Qingyu Zhang
 - Yubo Wang
+- Shihang Gui
