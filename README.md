@@ -42,6 +42,9 @@ Last updated: <!--LAST_UPDATED--> 2026-03-26
 | MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second                       | 2025 | [📄 Paper](https://arxiv.org/abs/2507.10065) | [🌍 Website](https://chenguolin.github.io/projects/MoVieS/)                                            | [💾 Code](https://github.com/chenguolin/MoVieS)         | -                                                                |
 | TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction                       | 2025 | [📄 Paper](https://arxiv.org/abs/2512.02341) | -                                            | [💾 Code](https://github.com/Xian-Bei/TALO)         | -                                                                |
 | STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer                       | 2025 | [📄 Paper](https://arxiv.org/abs/2508.10893) | [🌍 Website](https://nirvanalan.github.io/projects/stream3r/)                                           | [💾 Code](https://github.com/NIRVANALAN/STream3R)         | -                               |
+|Depth Anything 3: Recovering the Visual Space from Any Views | 2025 | [📄 Paper](https://arxiv.org/abs/2511.10647) | [🌍 Website](https://depth-anything-3.github.io/)                                           | [💾 Code](https://github.com/ByteDance-Seed/depth-anything-3)         | [😊 HuggingFace](https://huggingface.co/spaces/depth-anything/depth-anything-3)              |
+|RayZer: A Self-supervised Large View Synthesis Model | 2025 | [📄 Paper](https://arxiv.org/abs/2505.00702) | [🌍 Website](https://hwjiang1510.github.io/RayZer/)                                   | [💾 Code](https://github.com/hwjiang1510/RayZer)         | -             |
+
 
 
 
@@ -112,8 +115,11 @@ Last updated: <!--LAST_UPDATED--> 2026-03-26
 
 | Dataset                                       | Year | Granularity | Tasks                                                                 | Size | Site                                                 | Description                                                                                                                                                            |
 | --------------------------------------------- | ---- | ----------- | --------------------------------------------------------------------- | ---- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|[SAM 3D](https://arxiv.org/abs/2602.15989) | 2026 | Human Body | Full-Body Human Mesh Recovery | 5M | [Github](https://github.com/facebookresearch/sam-3d-body) | A dataset released by Meta (2025) designed for single-image full-body reconstruction. It adapts the "Segment Anything" philosophy to the 3D human recovery domain. | 
 |[InterAct](https://arxiv.org/abs/2509.09555) | 2025 | Human Body | 3D Motion Generation | 1.1K | [Github](https://github.com/wzyabcas/InterAct) | A comprehensive dataset for Human-Human and Human-Object Interaction. It focuses on "social" 3D understanding, ensuring that physical contacts (e.g., a handshake or sitting on a chair) are mathematically accurate. |
 | [GigaHands](https://arxiv.org/abs/2412.04244) | 2025 | Human Hand  | 3D bimanual hand                                                      | 14K  | [Github](https://github.com/Kristen-Z/GigaHands)     | A large dataset of bimanual hand–object interactions with 183 million frames, dense annotations (per hand & object), and 51 camera views for motion clips.             |
+|[EgoHumans](https://arxiv.org/abs/2305.16487) | 2023 | Human Body | 3D Multi-Human Tracking, 3D Pose Estimation | 125K | [Github](https://github.com/rawalkhirodkar/egohumans) | A specialized 3D benchmark designed to address the limitations of traditional egocentric datasets, which typically focus on a single subject in indoor settings. | 
+|[EgoExo4D](https://arxiv.org/abs/2311.18259)  | 2023 | Human Body | Ego-Exo Relation, Ego-Exo Translation, 3D Pose Estimation | 1.4K | [Github](https://github.com/facebookresearch/Ego4d) | A massive-scale, multimodal, and multiview video dataset specifically designed to bridge the gap between first-person (egocentric) and third-person (exocentric) perspectives. | 
 | [H3WB](https://arxiv.org/pdf/2211.15692)      | 2022 | Human Body  | 3D Pose Estimation                                                    | 100K | [Github](https://github.com/wholebody3d/wholebody3d) | H3WB augments Human3.6M with 133 whole-body 3D keypoint annotations (body, hands, face, feet) for 100k images via a multi-view annotation pipeline.                    |
 | [FaceScape](https://arxiv.org/pdf/2003.13989) | 2020 | Human Face  | Classification, Segmentation, Reconstruction, Completion, Recognition | 18K  | [Github](https://github.com/zhuhao-nju/facescape)    | 18,760 high-quality textured 3D face meshes from 938 people with pore-level geometry, uniform topology base meshes + displacement maps, and 20 expressions per subject |
 
@@ -235,6 +241,9 @@ Last updated: <!--LAST_UPDATED--> 2026-03-26
 | InterAct                        | ❌   | ❌          | ✅<sup>\*</sup>  | ❌         | ❌    | ❌             |
 | uCO3D                           | ❌    | ✅          | ❌              | ✅         | ❌    | ❌             |
 | SceneSplat++                    | ✅    | ✅          | ❌              | ✅         | ❌    | ✅             |
+| SAM 3D Body                     |  ❌   | ❌          | ✅              | ❌         | ❌    | ❌             |
+| EgoHumans                       | ❌    | ✅          |  ✅             | ❌         | ❌    | ❌             |
+| EgoExo4D                        | ✅    | ❌          | ❌              | ✅         | ❌    | ❌             |
 
 
 ## 👥 Contributors
