@@ -16,7 +16,7 @@
   <strong>applications</strong> in one coherent framework.</em>
 </p>
 
-<p>Last updated: <!--LAST_UPDATED--> 2026-05-07</p>
+<p>Last updated: <!--LAST_UPDATED--> 2026-05-07
 
 <table>
   <tr>
