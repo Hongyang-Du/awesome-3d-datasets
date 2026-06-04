@@ -6,7 +6,6 @@
   <a href="https://openaccess.thecvf.com/content/CVPR2026W/OpenSUN3D/html/Du_A_Cookbook_of_3D_Vision_Data_Learning_Paradigms_and_Application_CVPRW_2026_paper.html"><img alt="CVPR 2026 OpenSUN3D" src="https://img.shields.io/badge/CVPR%202026-OpenSUN3D-1f6feb?style=for-the-badge&logo=ieee&logoColor=white"></a>
   <a href="https://arxiv.org/abs/2606.04291"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv%3A2606.04291-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white"></a>
   <a href="#-citation"><img alt="BibTeX" src="https://img.shields.io/badge/Cite-BibTeX-005b96?style=for-the-badge&logo=latex&logoColor=white"></a>
-  <a href="https://github.com/Hongyang-Du/awesome-3d-datasets"><img alt="Awesome" src="https://img.shields.io/badge/Awesome-3D%20Vision-ff69b4?style=for-the-badge&logo=awesomelists&logoColor=white"></a>
   <a href="#-contributing"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-2ea44f?style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
