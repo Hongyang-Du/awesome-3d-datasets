@@ -3,8 +3,8 @@
 # A Cookbook of 3D Vision: Data, Learning Paradigms, and Application
 
 <p>
-  <a href="#"><img alt="CVPR 2026 Workshop" src="https://img.shields.io/badge/CVPR-2026%20Workshop-1f6feb?style=for-the-badge&logo=ieee&logoColor=white"></a>
-  <a href="https://arxiv.org/"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white"></a>
+  <a href="https://openaccess.thecvf.com/content/CVPR2026W/OpenSUN3D/html/Du_A_Cookbook_of_3D_Vision_Data_Learning_Paradigms_and_Application_CVPRW_2026_paper.html"><img alt="CVPR 2026 OpenSUN3D" src="https://img.shields.io/badge/CVPR%202026-OpenSUN3D-1f6feb?style=for-the-badge&logo=ieee&logoColor=white"></a>
+  <a href="https://arxiv.org/abs/2606.04291"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv%3A2606.04291-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white"></a>
   <a href="#-citation"><img alt="BibTeX" src="https://img.shields.io/badge/Cite-BibTeX-005b96?style=for-the-badge&logo=latex&logoColor=white"></a>
   <a href="https://github.com/Hongyang-Du/awesome-3d-datasets"><img alt="Awesome" src="https://img.shields.io/badge/Awesome-3D%20Vision-ff69b4?style=for-the-badge&logo=awesomelists&logoColor=white"></a>
   <a href="#-contributing"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-2ea44f?style=for-the-badge&logo=git&logoColor=white"></a>
@@ -16,7 +16,7 @@
   <strong>applications</strong> in one coherent framework.</em>
 </p>
 
-<p>Last updated: <!--LAST_UPDATED--> 2026-05-07
+<p>Last updated: <!--LAST_UPDATED--> 2026-06-04
 
 <table>
   <tr>
@@ -37,7 +37,7 @@
 
 </div>
 
-> 🎉 **News (May 2026)** — Our paper *“A Cookbook of 3D Vision: Data, Learning Paradigms, and Application”* has been accepted to the **CVPR 2026 Workshop**! We are now actively maintaining this repository as the living companion to the paper. Pull requests, issues, and suggestions are very welcome.
+> 🎉 **News (June 2026)** — Our paper *“A Cookbook of 3D Vision: Data, Learning Paradigms, and Application”* is now available at the **[CVPR 2026 OpenSUN3D Workshop (CVF Open Access)](https://openaccess.thecvf.com/content/CVPR2026W/OpenSUN3D/html/Du_A_Cookbook_of_3D_Vision_Data_Learning_Paradigms_and_Application_CVPRW_2026_paper.html)** and on **[arXiv:2606.04291](https://arxiv.org/abs/2606.04291)**. This repository is the living companion to the paper — pull requests, issues, and suggestions are very welcome.
 
 ## 🌟 Overview
 
@@ -73,17 +73,18 @@
 
 ## 📄 Citation
 
+**Paper:** [Official (CVF Open Access)](https://openaccess.thecvf.com/content/CVPR2026W/OpenSUN3D/html/Du_A_Cookbook_of_3D_Vision_Data_Learning_Paradigms_and_Application_CVPRW_2026_paper.html) · [arXiv:2606.04291](https://arxiv.org/abs/2606.04291)
+
 If you find this repository useful for your research, please consider citing:
 
 ```bibtex
-@inproceedings{du2026cookbook,
-  title     = {A Cookbook of 3D Vision: Data, Learning Paradigms, and Application},
-  author    = {Du, Hongyang and Li, Zongxia and Liu, Dawei and Li, Runhao and
-               Song, Haoyuan and Zhang, Qingyu and Wang, Yubo and Ni, Jingcheng and
-               Gui, Shihang and Dong, Congchao and Hu, Tao},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-               Recognition (CVPR) Workshops},
-  year      = {2026}
+@InProceedings{Du_2026_CVPR,
+    author    = {Du, Hongyang and Li, Zongxia and Liu, Dawei and Li, Runhao and Song, Haoyuan and Zhang, Qingyu and Wang, Yubo and Ni, Jingcheng and Gui, Shihang and Dong, Congchao and Hu, Tao},
+    title     = {A Cookbook of 3D Vision: Data, Learning Paradigms, and Application},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2026},
+    pages     = {8376-8390}
 }
 ```
 
